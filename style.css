@@ -1,0 +1,190 @@
+body {
+	font-family: Days;
+	color: white;
+	margin: 0px;
+	background-color: rgb(12, 12, 12);
+}
+
+pre {
+	font-family: Days;
+	font-size: 13px;
+	margin: 0px;
+}
+
+p {
+	margin-top: 0px;
+	padding-top: 0px;
+	font-size: 7px;
+}
+
+h1 {
+	padding-bottom: 3px;
+}
+
+img {
+	width: 100%;
+	height: 65%;
+	margin-bottom: 0px;
+	border-radius: 20px;
+}
+
+video {
+	width: 100%;
+	border-radius: 20px;
+
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+}
+
+
+
+.header {
+	display: flex;
+	justify-content: center;
+	background-color: #232323;
+	width: 20%;
+	min-width: 20em;
+	margin: auto;
+	border-radius: 10em;
+}
+
+.header2{
+	display: flex;
+	justify-content: center;
+}
+
+.ps {
+	display: flex;
+	justify-content: center;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	margin-right: 5px;
+	background-color: #212121;
+	justify-content: center;
+	align-items: center;
+	border: 10px solid #212121;
+	border-radius: 30px;
+	height: 25%;
+	width: 25%;
+}
+
+.information {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	margin-left: 20px;
+	height: 100vh;
+	flex-direction: column;
+}
+.test {
+	display: flex;
+	align-items: flex-start;
+	justify-content:center;
+	width: 100%;
+}
+
+.header-characters{
+	display: flex;
+	justify-content: center;
+	background-color: #232323;
+	width: 20%;
+	min-width: 20em;
+	margin: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-radius: 10em;
+}
+
+.violet{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 45%;
+	border: 10px solid #212121;
+	border-radius: 30px;
+	margin: 5px;
+}
+.claudia{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 45%;
+	border: 10px solid #212121;
+	border-radius: 30px;
+	margin: 5px;
+}
+
+.gilbert{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 45%;
+	border: 10px solid #212121;
+	border-radius: 30px;
+	margin: 5px;
+}
+
+.violet-img{
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+
+.gilbert-img{
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+
+.claudia-img{
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+
+.characters{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+
+}
+
+.character-name{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 0px;
+
+}
+
+.violet-name{
+	display: flex;
+	justify-content: flex-start;
+	width: 20%;
+}
+
+.gilbert-name{
+	display: flex;
+	justify-content: flex-start;
+	width: 20%;
+}
+
+.claudia-name{
+	display: flex;
+	justify-content: flex-start;
+	width: 20%;
+}
+
+
+
